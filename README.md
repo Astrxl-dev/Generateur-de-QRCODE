@@ -2,7 +2,8 @@
 
 Une petite application web minimaliste, ultra-rapide et sans dépendance serveur pour générer des QR codes permanents en quelques secondes.
 
-*(Pense à glisser-déposer une capture d'écran de ton interface ici !)*
+<img width="608" height="506" alt="image" src="https://github.com/user-attachments/assets/e08943e2-d086-4c0a-8d69-afbeb08945c2" />
+
 
 ### ✨ Pourquoi ce projet ?
 
