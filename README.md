@@ -25,8 +25,6 @@ Beaucoup de générateurs en ligne créent des QR codes "dynamiques" qui finisse
 
 ### 💻 Utilisation en local
 
-Pas besoin d'installer Node.js, Python ou quoi que ce soit :
-
 1. **Clone le dépôt :**
    ```bash
    git clone https://github.com/Astrxl-dev/Generateur-de-QRCODE.git
